@@ -7,11 +7,11 @@
  */
 int main(void)
 {
-	int n,
+	int n, lastdigit;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	int lastdigit = n % 10;
+	lastdigit = n % 10;
 
 	if (lastdigit > 5)
 	{
