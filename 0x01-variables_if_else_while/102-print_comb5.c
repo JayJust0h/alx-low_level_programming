@@ -17,9 +17,9 @@ int main(void)
 	putchar((r / 10) + '0');
 	putchar((r % 10) + '0');
 	putchar(' ');
-	putchar((q / 10) + '0');
-	putchar((q % 10) + '0');
-	if (r == 98 && s== 99)
+	putchar((s / 10) + '0');
+	putchar((s % 10) + '0');
+	if (r == 98 && s == 99)
 	continue;
 	putchar(',');
 	putchar(' ');
