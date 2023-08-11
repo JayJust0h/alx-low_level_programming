@@ -8,7 +8,7 @@
 int main(void)
 
 {
-	int r,s;
+	int r, s;
 
 	for (r = 0; s <= 98; r++)
 	{
