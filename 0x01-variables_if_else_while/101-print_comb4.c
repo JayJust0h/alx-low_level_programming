@@ -16,7 +16,6 @@ int main(void)
 	for (d2 = d1 + 1; d2 <= '9'; d2++)
 	{
 	for (d3 = d2 + 1; d3 <= '9'; d3++)
-	
 	{
 	putchar(d1);
 	putchar(d2);
