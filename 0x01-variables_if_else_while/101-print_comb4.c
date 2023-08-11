@@ -17,7 +17,7 @@ int main(void)
         {
 	for (d3 = d2 + 1; d3 <= '9'; d3++)
 	{
-        if (d1 != d2)( !=d3)
+        if (d1 != d2)( !=d3);
         {
         putchar(d1);
         putchar(d2);
@@ -32,3 +32,4 @@ int main(void)
         }
         putchar('\n');
         return (0);
+}
