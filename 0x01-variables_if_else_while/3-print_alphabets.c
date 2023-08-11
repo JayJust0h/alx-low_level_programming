@@ -10,13 +10,13 @@
 int main(void)
 
 {
-	char case;
+	char cs;
 
-	for (case = 'a'; case <= 'z'; case++)
-	putchar(case);
+	for (cs = 'a'; cs <= 'z'; cs++)
+	putchar(cs);
 
-	for (case = 'A'; case <= 'Z'; case++)
-	putchar(case);
+	for (cs = 'A'; cs <= 'Z'; cs++)
+	putchar(cs);
 
 	putchar('\n');
 	return (0);
