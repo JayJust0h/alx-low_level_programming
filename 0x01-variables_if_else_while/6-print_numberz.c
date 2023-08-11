@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * Print single digit numbers using specific functions.
- * Result: Always 0 (success)
+ * main - Print single digit numbers using specific functions.
+ * Result : Always 0 (success)
  */
 
 int main(void)
