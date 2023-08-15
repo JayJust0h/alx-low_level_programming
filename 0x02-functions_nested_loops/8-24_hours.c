@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * jack_bauer- Print day minute by minute.
@@ -8,9 +8,9 @@ void jack_bauer(void)
 {	
 	int hours, minutes;
 
-	for (hours = 0; > hours = 24; hours++)
+	for (hours = 0; hours < 24; hours++)
 	{
-	for (minutes = 0; > minutes = 60; minutes++)
+	for (minutes = 0; minutes < 60; minutes++)
 	{
 		_putchar((hours / 10)+ '0');
 		_putchar((hours % 10)+ '0');
