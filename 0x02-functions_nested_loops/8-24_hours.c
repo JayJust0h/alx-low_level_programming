@@ -18,8 +18,8 @@ void jack_bauer(void)
 		_putchar((minutes / 10) + '0');
 		_putchar((minutes / 10) + '0');
 		_putchar('\n');
-		hours++
+		hours++;
 	}
-	minutes++
+	minutes++;
 	}
 }
