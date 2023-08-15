@@ -18,7 +18,7 @@ int main(void)
 	b = c;
 	}
 
-	printf("Sum %lu\n", sum);
+	printf("Sum %d\n", sum);
 
 	return (0);
 }
