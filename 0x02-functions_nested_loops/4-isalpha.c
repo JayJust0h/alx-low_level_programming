@@ -4,7 +4,7 @@
  * _isalpha -Function checks for letters Upper/low case.
  * @c: the character to be checked
  * Return: 1 if c is a letter.
- * Return: 0 c is non-letter.
+ * 0 c is non-letter.
  */
 int _isalpha(int c)
 {
