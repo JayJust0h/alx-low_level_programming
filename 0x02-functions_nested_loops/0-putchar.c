@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - A program that outputs _putchar followed by a new line.
+ * main-A program that outputs _putchar followed by a new line.
  * return: Always 0 (Fulfilled)
  */
 int main(void)
