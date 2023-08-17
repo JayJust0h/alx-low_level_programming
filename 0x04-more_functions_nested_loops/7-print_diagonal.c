@@ -23,7 +23,7 @@ void print_diagonal(int n)
 		if (k == l)
 		_putchar('\\');
 		else if (k < l)
-		
+
 		_putchar(' ');
 		}
 	_putchar('\n');
