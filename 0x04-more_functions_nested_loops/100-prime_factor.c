@@ -4,7 +4,6 @@
 /**
  * main - find largest prime factor of the number 612852475143 and print.
  * New line
- * @n: number being altered.
  * Return: Always 0 (Success)
  */
 
