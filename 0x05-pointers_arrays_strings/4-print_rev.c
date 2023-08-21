@@ -10,18 +10,21 @@
 void print_rev(char *s)
 {
 	int longi = 0;
-	int r
-		while (*s != '\0')
-		{	longi++
-			s++
-		} 
-s--;
-for (r = longi; r > 0; r--)
-{
-	_putchar (*s);
-	s--;
-}
 
-	_putchar('\n')
+	int o;
+
+	while (*s != '\0')
+	{
+		longi++;
+		s++;
+	}
+	s--;
+	for (o = longi; o > 0; o--)
+	{
+		_putchar (*s);
+		s--;
+	}
+
+	_putchar('\n');
 
 }
