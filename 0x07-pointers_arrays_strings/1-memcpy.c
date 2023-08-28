@@ -3,9 +3,9 @@
 /**
  * _memcpy - Function copies memory area.
  * @n: number of bytes to be copied.
- * src: source of the bytes.
- * dest: destination of the bytes.
- * return: pointer to dest.
+ * @src: source of the bytes.
+ * @dest: destination of the bytes.
+ * Return: pointer to dest.
  */
 
 char *_memcpy(char *dest, char *src, unsigned int n)
