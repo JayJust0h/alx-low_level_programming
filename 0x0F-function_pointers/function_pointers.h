@@ -1,5 +1,7 @@
 #ifndef function_pointer_h
 #define function_pointers_h
+#include <stddef.h>
+#include <stdlib.h>
 
 
 void print_name(char *name, void (*f)(char *));
