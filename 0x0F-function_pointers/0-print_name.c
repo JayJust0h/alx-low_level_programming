@@ -2,7 +2,7 @@
 #include "function_pointers.h"
 
 /**
- * void print_name - Function prints a name.
+ * print_name - Function prints a name.
  * @name: Name to be printed.
  * @f: Function pointer.
  * Return: 0(success).
