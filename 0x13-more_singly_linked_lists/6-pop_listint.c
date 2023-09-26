@@ -2,9 +2,8 @@
 
 /**
  * pop_listint - Deletes the head node.
- * @n: Data holder.
  * @head: Parameter that point to the head of the linked list
- * Return: Return the head node’s data (n).
+ * Return: Head node data (n).
  */
 
 int pop_listint(listint_t **head)
