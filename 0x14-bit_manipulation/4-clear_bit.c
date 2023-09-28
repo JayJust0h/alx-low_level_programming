@@ -1,10 +1,9 @@
 #include "main.h"
 /**
- * clear_bit - sets the value of a bit to 0 at a given index.
- * @n: number
- * @index: index
- *
- * Return: change bit in index
+ * clear_bit - Sets the value of a bit to 0 at a given index.
+ * @n: Number.
+ * @index: Index.
+ * Return: Changed bit in index.
  */
 int clear_bit(unsigned long int *n, unsigned int index)
 {
