@@ -41,7 +41,6 @@ unsigned int binary_to_uint(const char *b)
 
 	n = strlen(b) - 1;
 
-	
 	for (x = 0, i = 0; n >= x; n--)
 	{
 		switch (b[i])
