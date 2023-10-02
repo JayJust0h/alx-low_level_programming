@@ -1,6 +1,6 @@
 #include "main.h"
 
-/**i
+/**
  * close_file - Checks a file close was succesfull.
  * @fd: The file descriptor.
  * Return: 0(success).
